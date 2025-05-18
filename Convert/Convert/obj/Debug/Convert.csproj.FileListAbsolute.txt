@@ -1,0 +1,13 @@
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\bin\Debug\Convert.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\bin\Debug\Convert.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\bin\Debug\Convert.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\Convert.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\MainWindow.baml
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\MainWindow.g.cs
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\App.g.cs
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\Convert_MarkupCompile.cache
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\Convert.g.resources
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\Convert.Properties.Resources.resources
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\Convert.csproj.GenerateResource.Cache
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\Convert.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Convert\Convert\obj\Debug\Convert.pdb

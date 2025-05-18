@@ -1,0 +1,5 @@
+C:\Users\YangZhimin\Desktop\C#Projects\Custom_Delegate_Example\Custom_Delegate_Example\bin\Debug\Custom_Delegate_Example.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\Custom_Delegate_Example\Custom_Delegate_Example\bin\Debug\Custom_Delegate_Example.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Custom_Delegate_Example\Custom_Delegate_Example\bin\Debug\Custom_Delegate_Example.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\Custom_Delegate_Example\Custom_Delegate_Example\obj\Debug\Custom_Delegate_Example.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Custom_Delegate_Example\Custom_Delegate_Example\obj\Debug\Custom_Delegate_Example.pdb

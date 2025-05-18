@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\ConversionExample03\ConversionExample03\bin\Debug\ConversionExample03.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\ConversionExample03\ConversionExample03\bin\Debug\ConversionExample03.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ConversionExample03\ConversionExample03\bin\Debug\ConversionExample03.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ConversionExample03\ConversionExample03\obj\Debug\ConversionExample03.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\ConversionExample03\ConversionExample03\obj\Debug\ConversionExample03.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ConversionExample03\ConversionExample03\obj\Debug\ConversionExample03.pdb

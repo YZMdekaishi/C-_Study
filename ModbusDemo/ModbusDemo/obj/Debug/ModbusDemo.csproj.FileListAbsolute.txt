@@ -1,0 +1,11 @@
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\bin\Debug\ModbusDemo.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\obj\Debug\ModbusDemo.FormModbus.resources
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\obj\Debug\ModbusDemo.Properties.Resources.resources
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\obj\Debug\ModbusDemo.csproj.GenerateResource.cache
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\bin\Debug\ModbusDemo.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\bin\Debug\ModbusDemo.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\bin\Debug\DAL.dll
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\bin\Debug\DAL.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\obj\Debug\ModbusDemo.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\obj\Debug\ModbusDemo.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ModbusDemo\ModbusDemo\obj\Debug\ModbusDemo.csprojResolveAssemblyReference.cache

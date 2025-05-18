@@ -1,0 +1,5 @@
+C:\Users\YangZhimin\Desktop\C#Projects\PaamertersExample04\PaamertersExample04\bin\Debug\PaamertersExample04.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\PaamertersExample04\PaamertersExample04\bin\Debug\PaamertersExample04.exe
+C:\Users\YangZhimin\Desktop\C#Projects\PaamertersExample04\PaamertersExample04\bin\Debug\PaamertersExample04.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\PaamertersExample04\PaamertersExample04\obj\Debug\PaamertersExample04.exe
+C:\Users\YangZhimin\Desktop\C#Projects\PaamertersExample04\PaamertersExample04\obj\Debug\PaamertersExample04.pdb

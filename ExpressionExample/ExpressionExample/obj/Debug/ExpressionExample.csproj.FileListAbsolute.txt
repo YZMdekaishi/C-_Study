@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\ExpressionExample\ExpressionExample\bin\Debug\ExpressionExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\ExpressionExample\ExpressionExample\bin\Debug\ExpressionExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ExpressionExample\ExpressionExample\bin\Debug\ExpressionExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ExpressionExample\ExpressionExample\obj\Debug\ExpressionExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\ExpressionExample\ExpressionExample\obj\Debug\ExpressionExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ExpressionExample\ExpressionExample\obj\Debug\ExpressionExample.pdb

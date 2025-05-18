@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpMethodExample\CSharpMethodExample\bin\Debug\CSharpMethodExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpMethodExample\CSharpMethodExample\bin\Debug\CSharpMethodExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpMethodExample\CSharpMethodExample\bin\Debug\CSharpMethodExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpMethodExample\CSharpMethodExample\obj\Debug\CSharpMethodExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpMethodExample\CSharpMethodExample\obj\Debug\CSharpMethodExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpMethodExample\CSharpMethodExample\obj\Debug\CSharpMethodExample.pdb

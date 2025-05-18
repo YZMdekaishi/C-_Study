@@ -1,0 +1,13 @@
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\bin\Debug\heapSample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\bin\Debug\heapSample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\bin\Debug\heapSample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\heapSample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\MainWindow.baml
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\MainWindow.g.cs
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\App.g.cs
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\heapSample_MarkupCompile.cache
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\heapSample.g.resources
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\heapSample.Properties.Resources.resources
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\heapSample.csproj.GenerateResource.Cache
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\heapSample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\heapSample\heapSample\obj\Debug\heapSample.pdb

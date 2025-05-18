@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\MulticastDelegateExample\MulticastDelegateExample\bin\Debug\MulticastDelegateExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\MulticastDelegateExample\MulticastDelegateExample\bin\Debug\MulticastDelegateExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\MulticastDelegateExample\MulticastDelegateExample\bin\Debug\MulticastDelegateExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\MulticastDelegateExample\MulticastDelegateExample\obj\Debug\MulticastDelegateExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\MulticastDelegateExample\MulticastDelegateExample\obj\Debug\MulticastDelegateExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\MulticastDelegateExample\MulticastDelegateExample\obj\Debug\MulticastDelegateExample.pdb

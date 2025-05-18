@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample03\ParametersExample03\bin\Debug\ParametersExample03.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample03\ParametersExample03\bin\Debug\ParametersExample03.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample03\ParametersExample03\bin\Debug\ParametersExample03.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample03\ParametersExample03\obj\Debug\ParametersExample03.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample03\ParametersExample03\obj\Debug\ParametersExample03.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample03\ParametersExample03\obj\Debug\ParametersExample03.pdb

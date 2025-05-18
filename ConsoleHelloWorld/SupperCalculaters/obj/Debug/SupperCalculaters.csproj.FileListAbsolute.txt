@@ -1,0 +1,5 @@
+C:\Users\YangZhimin\Desktop\C#Projects\ConsoleHelloWorld\SupperCalculaters\bin\Debug\SupperCalculaters.dll
+C:\Users\YangZhimin\Desktop\C#Projects\ConsoleHelloWorld\SupperCalculaters\bin\Debug\SupperCalculaters.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ConsoleHelloWorld\SupperCalculaters\obj\Debug\SupperCalculaters.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\ConsoleHelloWorld\SupperCalculaters\obj\Debug\SupperCalculaters.dll
+C:\Users\YangZhimin\Desktop\C#Projects\ConsoleHelloWorld\SupperCalculaters\obj\Debug\SupperCalculaters.pdb

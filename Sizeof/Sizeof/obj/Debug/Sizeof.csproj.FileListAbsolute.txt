@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\Sizeof\Sizeof\bin\Debug\Sizeof.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\Sizeof\Sizeof\bin\Debug\Sizeof.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Sizeof\Sizeof\bin\Debug\Sizeof.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\Sizeof\Sizeof\obj\Debug\Sizeof.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\Sizeof\Sizeof\obj\Debug\Sizeof.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Sizeof\Sizeof\obj\Debug\Sizeof.pdb

@@ -1,0 +1,8 @@
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\The_access_level_class_Example\bin\Debug\The_access_level_class_Example.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\The_access_level_class_Example\obj\Debug\The_access_level_class_Example.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\The_access_level_class_Example\bin\Debug\The_access_level_class_Example.exe
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\The_access_level_class_Example\bin\Debug\The_access_level_class_Example.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\The_access_level_class_Example\bin\Debug\MyLib.dll
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\The_access_level_class_Example\bin\Debug\MyLib.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\The_access_level_class_Example\obj\Debug\The_access_level_class_Example.exe
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\The_access_level_class_Example\obj\Debug\The_access_level_class_Example.pdb

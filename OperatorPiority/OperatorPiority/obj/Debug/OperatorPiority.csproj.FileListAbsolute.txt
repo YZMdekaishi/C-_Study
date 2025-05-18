@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorPiority\OperatorPiority\bin\Debug\OperatorPiority.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorPiority\OperatorPiority\bin\Debug\OperatorPiority.exe
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorPiority\OperatorPiority\bin\Debug\OperatorPiority.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorPiority\OperatorPiority\obj\Debug\OperatorPiority.exe
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorPiority\OperatorPiority\obj\Debug\OperatorPiority.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorPiority\OperatorPiority\obj\Debug\OperatorPiority.csprojResolveAssemblyReference.cache

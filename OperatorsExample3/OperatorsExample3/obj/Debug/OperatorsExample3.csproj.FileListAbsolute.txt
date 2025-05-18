@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorsExample3\OperatorsExample3\bin\Debug\OperatorsExample3.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorsExample3\OperatorsExample3\bin\Debug\OperatorsExample3.exe
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorsExample3\OperatorsExample3\bin\Debug\OperatorsExample3.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorsExample3\OperatorsExample3\obj\Debug\OperatorsExample3.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorsExample3\OperatorsExample3\obj\Debug\OperatorsExample3.exe
+C:\Users\YangZhimin\Desktop\C#Projects\OperatorsExample3\OperatorsExample3\obj\Debug\OperatorsExample3.pdb

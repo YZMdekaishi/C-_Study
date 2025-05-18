@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.exe
+C:\Users\YangZhimin\Desktop\C#Projects\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.exe
+C:\Users\YangZhimin\Desktop\C#Projects\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.pdb

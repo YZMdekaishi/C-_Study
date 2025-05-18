@@ -1,0 +1,5 @@
+C:\Users\YangZhimin\Desktop\C#Projects\Abstract_Example\Abstract_Example\bin\Debug\Abstract_Example.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\Abstract_Example\Abstract_Example\bin\Debug\Abstract_Example.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Abstract_Example\Abstract_Example\bin\Debug\Abstract_Example.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\Abstract_Example\Abstract_Example\obj\Debug\Abstract_Example.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Abstract_Example\Abstract_Example\obj\Debug\Abstract_Example.pdb

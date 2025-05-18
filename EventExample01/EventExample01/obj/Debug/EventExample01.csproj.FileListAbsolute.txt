@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample01\EventExample01\bin\Debug\EventExample01.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample01\EventExample01\bin\Debug\EventExample01.exe
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample01\EventExample01\bin\Debug\EventExample01.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample01\EventExample01\obj\Debug\EventExample01.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample01\EventExample01\obj\Debug\EventExample01.exe
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample01\EventExample01\obj\Debug\EventExample01.pdb

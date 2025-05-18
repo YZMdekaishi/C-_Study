@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\PropertyExample02\PropertyExample02\bin\Debug\PropertyExample02.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\PropertyExample02\PropertyExample02\bin\Debug\PropertyExample02.exe
+C:\Users\YangZhimin\Desktop\C#Projects\PropertyExample02\PropertyExample02\bin\Debug\PropertyExample02.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\PropertyExample02\PropertyExample02\obj\Debug\PropertyExample02.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\PropertyExample02\PropertyExample02\obj\Debug\PropertyExample02.exe
+C:\Users\YangZhimin\Desktop\C#Projects\PropertyExample02\PropertyExample02\obj\Debug\PropertyExample02.pdb

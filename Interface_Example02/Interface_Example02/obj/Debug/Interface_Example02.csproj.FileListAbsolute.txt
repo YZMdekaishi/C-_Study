@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\Interface_Example02\Interface_Example02\bin\Debug\Interface_Example02.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\Interface_Example02\Interface_Example02\bin\Debug\Interface_Example02.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Interface_Example02\Interface_Example02\bin\Debug\Interface_Example02.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\Interface_Example02\Interface_Example02\obj\Debug\Interface_Example02.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\Interface_Example02\Interface_Example02\obj\Debug\Interface_Example02.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Interface_Example02\Interface_Example02\obj\Debug\Interface_Example02.pdb

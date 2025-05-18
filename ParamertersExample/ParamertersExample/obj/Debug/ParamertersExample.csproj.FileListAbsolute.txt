@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\ParamertersExample\ParamertersExample\bin\Debug\ParamertersExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\ParamertersExample\ParamertersExample\bin\Debug\ParamertersExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ParamertersExample\ParamertersExample\bin\Debug\ParamertersExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ParamertersExample\ParamertersExample\obj\Debug\ParamertersExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\ParamertersExample\ParamertersExample\obj\Debug\ParamertersExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ParamertersExample\ParamertersExample\obj\Debug\ParamertersExample.pdb

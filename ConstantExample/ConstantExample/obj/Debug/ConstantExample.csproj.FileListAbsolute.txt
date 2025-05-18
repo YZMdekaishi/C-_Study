@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\ConstantExample\ConstantExample\bin\Debug\ConstantExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\ConstantExample\ConstantExample\bin\Debug\ConstantExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ConstantExample\ConstantExample\bin\Debug\ConstantExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ConstantExample\ConstantExample\obj\Debug\ConstantExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\ConstantExample\ConstantExample\obj\Debug\ConstantExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ConstantExample\ConstantExample\obj\Debug\ConstantExample.pdb

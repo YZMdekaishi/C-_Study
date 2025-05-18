@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\Delegate_Example02\Delegate_Example02\bin\Debug\Delegate_Example02.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\Delegate_Example02\Delegate_Example02\bin\Debug\Delegate_Example02.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Delegate_Example02\Delegate_Example02\bin\Debug\Delegate_Example02.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\Delegate_Example02\Delegate_Example02\obj\Debug\Delegate_Example02.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\Delegate_Example02\Delegate_Example02\obj\Debug\Delegate_Example02.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Delegate_Example02\Delegate_Example02\obj\Debug\Delegate_Example02.pdb

@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\IndexExample00\IndexExample00\bin\Debug\IndexExample00.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\IndexExample00\IndexExample00\bin\Debug\IndexExample00.exe
+C:\Users\YangZhimin\Desktop\C#Projects\IndexExample00\IndexExample00\bin\Debug\IndexExample00.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\IndexExample00\IndexExample00\obj\Debug\IndexExample00.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\IndexExample00\IndexExample00\obj\Debug\IndexExample00.exe
+C:\Users\YangZhimin\Desktop\C#Projects\IndexExample00\IndexExample00\obj\Debug\IndexExample00.pdb

@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\HelloOOP\HelloOOP\bin\Debug\HelloOOP.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\HelloOOP\HelloOOP\bin\Debug\HelloOOP.exe
+C:\Users\YangZhimin\Desktop\C#Projects\HelloOOP\HelloOOP\bin\Debug\HelloOOP.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\HelloOOP\HelloOOP\obj\Debug\HelloOOP.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\HelloOOP\HelloOOP\obj\Debug\HelloOOP.exe
+C:\Users\YangZhimin\Desktop\C#Projects\HelloOOP\HelloOOP\obj\Debug\HelloOOP.pdb

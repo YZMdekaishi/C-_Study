@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\TypeSample\TypeSample\bin\Debug\TypeSample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\TypeSample\TypeSample\bin\Debug\TypeSample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\TypeSample\TypeSample\bin\Debug\TypeSample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\TypeSample\TypeSample\obj\Debug\TypeSample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\TypeSample\TypeSample\obj\Debug\TypeSample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\TypeSample\TypeSample\obj\Debug\TypeSample.pdb

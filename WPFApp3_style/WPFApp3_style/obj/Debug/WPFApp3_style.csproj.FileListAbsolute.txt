@@ -1,0 +1,13 @@
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\bin\Debug\WPFApp3_style.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\bin\Debug\WPFApp3_style.exe
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\bin\Debug\WPFApp3_style.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\WPFApp3_style.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\MainWindow.baml
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\MainWindow.g.cs
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\App.g.cs
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\WPFApp3_style_MarkupCompile.cache
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\WPFApp3_style.g.resources
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\WPFApp3_style.Properties.Resources.resources
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\WPFApp3_style.csproj.GenerateResource.Cache
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\WPFApp3_style.exe
+C:\Users\YangZhimin\Desktop\C#Projects\WPFApp3_style\WPFApp3_style\obj\Debug\WPFApp3_style.pdb

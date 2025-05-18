@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\Class and Instance\Class and Instance\bin\Debug\Class and Instance.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\Class and Instance\Class and Instance\obj\Debug\Class and Instance.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\Class and Instance\Class and Instance\bin\Debug\Class and Instance.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Class and Instance\Class and Instance\bin\Debug\Class and Instance.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\Class and Instance\Class and Instance\obj\Debug\Class and Instance.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Class and Instance\Class and Instance\obj\Debug\Class and Instance.pdb

@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpApp\CSharpApp\bin\Debug\CSharpApp.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpApp\CSharpApp\bin\Debug\CSharpApp.exe
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpApp\CSharpApp\bin\Debug\CSharpApp.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpApp\CSharpApp\obj\Debug\CSharpApp.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpApp\CSharpApp\obj\Debug\CSharpApp.exe
+C:\Users\YangZhimin\Desktop\C#Projects\CSharpApp\CSharpApp\obj\Debug\CSharpApp.pdb

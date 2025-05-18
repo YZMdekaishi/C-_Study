@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\SimplifyStatementEventExample\SimplifyStatementEventExample\bin\Debug\SimplifyStatementEventExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\SimplifyStatementEventExample\SimplifyStatementEventExample\bin\Debug\SimplifyStatementEventExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\SimplifyStatementEventExample\SimplifyStatementEventExample\bin\Debug\SimplifyStatementEventExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\SimplifyStatementEventExample\SimplifyStatementEventExample\obj\Debug\SimplifyStatementEventExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\SimplifyStatementEventExample\SimplifyStatementEventExample\obj\Debug\SimplifyStatementEventExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\SimplifyStatementEventExample\SimplifyStatementEventExample\obj\Debug\SimplifyStatementEventExample.pdb

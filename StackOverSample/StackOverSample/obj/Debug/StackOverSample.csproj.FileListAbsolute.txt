@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\StackOverSample\StackOverSample\bin\Debug\StackOverSample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\StackOverSample\StackOverSample\bin\Debug\StackOverSample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\StackOverSample\StackOverSample\bin\Debug\StackOverSample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\StackOverSample\StackOverSample\obj\Debug\StackOverSample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\StackOverSample\StackOverSample\obj\Debug\StackOverSample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\StackOverSample\StackOverSample\obj\Debug\StackOverSample.pdb

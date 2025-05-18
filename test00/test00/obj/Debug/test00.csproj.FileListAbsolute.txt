@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\test00\test00\bin\Debug\test00.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\test00\test00\bin\Debug\test00.exe
+C:\Users\YangZhimin\Desktop\C#Projects\test00\test00\bin\Debug\test00.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\test00\test00\obj\Debug\test00.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\test00\test00\obj\Debug\test00.exe
+C:\Users\YangZhimin\Desktop\C#Projects\test00\test00\obj\Debug\test00.pdb

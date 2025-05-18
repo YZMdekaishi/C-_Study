@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\TemplateExample\TemplateExample\bin\Debug\TemplateExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\TemplateExample\TemplateExample\bin\Debug\TemplateExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\TemplateExample\TemplateExample\bin\Debug\TemplateExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\TemplateExample\TemplateExample\obj\Debug\TemplateExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\TemplateExample\TemplateExample\obj\Debug\TemplateExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\TemplateExample\TemplateExample\obj\Debug\TemplateExample.pdb

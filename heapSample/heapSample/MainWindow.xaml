@@ -1,0 +1,10 @@
+﻿<Window x:Class="heapSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="Button1" Content="Comsume Heap Memory" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="499" Height="97" Click="Button1_Click"/>
+        <Button x:Name="Button2" Content="Release Heap Memory" HorizontalAlignment="Left" Margin="10,107,0,0" VerticalAlignment="Top" Width="499" Height="97" Click="Button2_Click"/>
+
+    </Grid>
+</Window>

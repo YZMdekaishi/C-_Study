@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\ConstructorExample\ConstructorExample\bin\Debug\ConstructorExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\ConstructorExample\ConstructorExample\bin\Debug\ConstructorExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ConstructorExample\ConstructorExample\bin\Debug\ConstructorExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ConstructorExample\ConstructorExample\obj\Debug\ConstructorExample.pdb

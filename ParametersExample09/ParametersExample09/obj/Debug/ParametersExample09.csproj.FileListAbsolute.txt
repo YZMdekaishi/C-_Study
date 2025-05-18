@@ -1,0 +1,5 @@
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample09\ParametersExample09\bin\Debug\ParametersExample09.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample09\ParametersExample09\bin\Debug\ParametersExample09.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample09\ParametersExample09\bin\Debug\ParametersExample09.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample09\ParametersExample09\obj\Debug\ParametersExample09.exe
+C:\Users\YangZhimin\Desktop\C#Projects\ParametersExample09\ParametersExample09\obj\Debug\ParametersExample09.pdb

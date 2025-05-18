@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\MySolution\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\MySolution\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe
+C:\Users\YangZhimin\Desktop\C#Projects\MySolution\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\MySolution\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\MySolution\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.exe
+C:\Users\YangZhimin\Desktop\C#Projects\MySolution\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.pdb

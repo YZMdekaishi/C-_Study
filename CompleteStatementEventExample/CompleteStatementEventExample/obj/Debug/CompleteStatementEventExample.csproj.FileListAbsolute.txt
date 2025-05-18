@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\CompleteStatementEventExample\CompleteStatementEventExample\bin\Debug\CompleteStatementEventExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\CompleteStatementEventExample\CompleteStatementEventExample\obj\Debug\CompleteStatementEventExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\CompleteStatementEventExample\CompleteStatementEventExample\bin\Debug\CompleteStatementEventExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\CompleteStatementEventExample\CompleteStatementEventExample\bin\Debug\CompleteStatementEventExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\CompleteStatementEventExample\CompleteStatementEventExample\obj\Debug\CompleteStatementEventExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\CompleteStatementEventExample\CompleteStatementEventExample\obj\Debug\CompleteStatementEventExample.pdb

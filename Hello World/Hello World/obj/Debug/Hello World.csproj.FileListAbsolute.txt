@@ -1,0 +1,13 @@
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\MainWindow.baml
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\MainWindow.g.cs
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\App.g.cs
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\Hello World_MarkupCompile.cache
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\Hello World.g.resources
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\YangZhimin\Desktop\C#Projects\Hello World\Hello World\obj\Debug\Hello World.pdb

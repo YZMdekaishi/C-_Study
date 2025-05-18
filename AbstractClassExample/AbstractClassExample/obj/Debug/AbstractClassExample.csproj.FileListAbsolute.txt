@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.pdb

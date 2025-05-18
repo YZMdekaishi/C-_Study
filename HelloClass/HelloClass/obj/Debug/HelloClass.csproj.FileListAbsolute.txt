@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\HelloClass\HelloClass\bin\Debug\HelloClass.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\HelloClass\HelloClass\obj\Debug\HelloClass.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\HelloClass\HelloClass\bin\Debug\HelloClass.exe
+C:\Users\YangZhimin\Desktop\C#Projects\HelloClass\HelloClass\bin\Debug\HelloClass.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\HelloClass\HelloClass\obj\Debug\HelloClass.exe
+C:\Users\YangZhimin\Desktop\C#Projects\HelloClass\HelloClass\obj\Debug\HelloClass.pdb

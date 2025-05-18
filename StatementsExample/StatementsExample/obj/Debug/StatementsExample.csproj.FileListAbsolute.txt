@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\StatementsExample\StatementsExample\bin\Debug\StatementsExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\StatementsExample\StatementsExample\bin\Debug\StatementsExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\StatementsExample\StatementsExample\bin\Debug\StatementsExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\StatementsExample\StatementsExample\obj\Debug\StatementsExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\StatementsExample\StatementsExample\obj\Debug\StatementsExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\StatementsExample\StatementsExample\obj\Debug\StatementsExample.pdb

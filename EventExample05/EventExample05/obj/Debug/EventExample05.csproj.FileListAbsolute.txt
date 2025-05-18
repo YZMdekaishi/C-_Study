@@ -1,0 +1,9 @@
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample05\EventExample05\bin\Debug\EventExample05.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample05\EventExample05\bin\Debug\EventExample05.exe
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample05\EventExample05\bin\Debug\EventExample05.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample05\EventExample05\obj\Debug\EventExample05.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample05\EventExample05\obj\Debug\EventExample05.Form1.resources
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample05\EventExample05\obj\Debug\EventExample05.Properties.Resources.resources
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample05\EventExample05\obj\Debug\EventExample05.csproj.GenerateResource.Cache
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample05\EventExample05\obj\Debug\EventExample05.exe
+C:\Users\YangZhimin\Desktop\C#Projects\EventExample05\EventExample05\obj\Debug\EventExample05.pdb

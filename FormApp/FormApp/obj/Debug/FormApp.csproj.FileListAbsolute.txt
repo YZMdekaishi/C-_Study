@@ -1,0 +1,9 @@
+C:\Users\YangZhimin\Desktop\C#Projects\FormApp\FormApp\bin\Debug\FormApp.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\FormApp\FormApp\obj\Debug\FormApp.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\FormApp\FormApp\obj\Debug\FormApp.MyForm.resources
+C:\Users\YangZhimin\Desktop\C#Projects\FormApp\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+C:\Users\YangZhimin\Desktop\C#Projects\FormApp\FormApp\obj\Debug\FormApp.csproj.GenerateResource.Cache
+C:\Users\YangZhimin\Desktop\C#Projects\FormApp\FormApp\bin\Debug\FormApp.exe
+C:\Users\YangZhimin\Desktop\C#Projects\FormApp\FormApp\bin\Debug\FormApp.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\FormApp\FormApp\obj\Debug\FormApp.exe
+C:\Users\YangZhimin\Desktop\C#Projects\FormApp\FormApp\obj\Debug\FormApp.pdb

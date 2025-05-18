@@ -1,0 +1,5 @@
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\MyLib\bin\Debug\MyLib.dll
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\MyLib\bin\Debug\MyLib.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\MyLib\obj\Debug\MyLib.dll
+C:\Users\YangZhimin\Desktop\C#Projects\The_access_level_class_Example\MyLib\obj\Debug\MyLib.pdb

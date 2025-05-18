@@ -1,0 +1,6 @@
+C:\Users\YangZhimin\Desktop\C#Projects\DataMemberExample\DataMemberExample\bin\Debug\DataMemberExample.exe.config
+C:\Users\YangZhimin\Desktop\C#Projects\DataMemberExample\DataMemberExample\bin\Debug\DataMemberExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\DataMemberExample\DataMemberExample\bin\Debug\DataMemberExample.pdb
+C:\Users\YangZhimin\Desktop\C#Projects\DataMemberExample\DataMemberExample\obj\Debug\DataMemberExample.csprojResolveAssemblyReference.cache
+C:\Users\YangZhimin\Desktop\C#Projects\DataMemberExample\DataMemberExample\obj\Debug\DataMemberExample.exe
+C:\Users\YangZhimin\Desktop\C#Projects\DataMemberExample\DataMemberExample\obj\Debug\DataMemberExample.pdb
